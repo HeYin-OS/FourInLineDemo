@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>mario.ico</file>
+    </qresource>
+    <qresource prefix="/pieces">
+        <file>blue_crystal.jpg</file>
+        <file>film_cult.jpg</file>
+        <file>vision.jpg</file>
+        <file>white_crystal.jpg</file>
+    </qresource>
+    <qresource prefix="/warning">
+        <file>warning.webp</file>
+    </qresource>
+    <qresource prefix="/winner">
+        <file>winner.jpg</file>
+    </qresource>
+    <qresource prefix="/vfx">
+        <file>effects/battle_abrupt.wav</file>
+        <file>effects/battle_start_btn.wav</file>
+        <file>effects/battle_success.wav</file>
+        <file>effects/player1_turn_remind_1.wav</file>
+        <file>effects/player1_turn_remind_2.wav</file>
+        <file>effects/player2_turn_remind_1.wav</file>
+        <file>effects/player2_turn_remind_2.wav</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>bgm/Beautiful Ruin View.mp3</file>
+        <file>bgm/Beautiful Ruin.mp3</file>
+        <file>bgm/Lost In Epizode View.mp3</file>
+        <file>bgm/Lost In Epizode.mp3</file>
+        <file>bgm/Theme View.mp3</file>
+        <file>bgm/Theme.mp3</file>
+        <file>bgm/Untrodden Morn View.mp3</file>
+        <file>bgm/Untrodden Morn.mp3</file>
+        <file>bgm/Wonderful world View.mp3</file>
+        <file>bgm/Wonderful world.mp3</file>
+    </qresource>
+</RCC>
